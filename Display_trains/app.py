@@ -1,3 +1,4 @@
+# Make sure to install flask by pip install flask
 from flask import Flask, jsonify
 import requests
 from datetime import datetime, timedelta
